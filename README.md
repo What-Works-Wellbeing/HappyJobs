@@ -1,1 +1,3 @@
-This is is a repository containing the R source code to download wellbeing by Occupation data from the What Work Centre for Wellbeing website and to generate a simple online app to explore the data which makes use of the shiny package within R. 
+# Happy Jobs - Shiny Application
+This is a repository containing the code for a shiny application to explore a published dataset on well-being by occupation. The R code for both server and user interface are included. The application itself is available [here] (https://ermckinnon.shinyapps.io/WellbeingProject/).  
+
