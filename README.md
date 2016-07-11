@@ -1,0 +1,1 @@
+This is is a repository containing the R source code to download wellbeing by Occupation data from the What Work Centre for Wellbeing website and to generate a simple online app to explore the data which makes use of the shiny package within R. 
